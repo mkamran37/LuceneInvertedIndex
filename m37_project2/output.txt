@@ -1,0 +1,110 @@
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411 
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657 
+TaatAnd
+ateint feme 
+Results: 6411 
+Number of documents in results: 1
+Number of comparisons: 26
+TaatOr
+ateint feme 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657 
+Number of documents in results: 21
+Number of comparisons: 20
+DaatAnd
+ateint feme 
+Results: 6411 
+Number of documents in results: 1
+Number of comparisons: 26
+DaatOr
+ateint feme 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657 
+Number of documents in results: 21
+Number of comparisons: 20
+GetPostings
+adrenoceptor
+Postings list: 7270 7271 7817 8272 8392 8539 8861 9410 9472 9863 10144 10241 10431 11536 11645 11956 
+GetPostings
+altern
+Postings list: 6989 7242 8819 8940 9620 9676 10566 11802 
+TaatAnd
+adrenoceptor altern 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 26
+TaatOr
+adrenoceptor altern 
+Results: 6989 7242 7270 7271 7817 8272 8392 8539 8819 8861 8940 9410 9472 9620 9676 9863 10144 10241 10431 10566 11536 11645 11802 11956 
+Number of documents in results: 24
+Number of comparisons: 23
+DaatAnd
+adrenoceptor altern 
+Results: 
+Number of documents in results: 0
+Number of comparisons: 26
+DaatOr
+adrenoceptor altern 
+Results: 6989 7242 7270 7271 7817 8272 8392 8539 8819 8861 8940 9410 9472 9620 9676 9863 10144 10241 10431 10566 11536 11645 11802 11956 
+Number of documents in results: 24
+Number of comparisons: 23
+GetPostings
+alguë
+Postings list: 5218 
+GetPostings
+accè
+Postings list: 6160 6244 
+GetPostings
+armé
+Postings list: 6350 
+TaatAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TaatOr
+alguë accè armé 
+Results: 5218 6160 6244 6350 
+Number of documents in results: 4
+Number of comparisons: 4
+DaatAnd
+alguë accè armé 
+Results: 
+Number of documents in results: 0
+Number of comparisons: 1
+DaatOr
+alguë accè armé 
+Results: 5218 6160 6244 6350 
+Number of documents in results: 4
+Number of comparisons: 3
+GetPostings
+neuroendocrin
+Postings list: 9 830 834 933 1127 2285 3887 4451 7373 8253 9194 9195 9875 
+GetPostings
+dotatoc
+Postings list: 830 
+GetPostings
+dotatat
+Postings list: 830 834 1171 
+TaatAnd
+neuroendocrin dotatoc dotatat 
+Results: 830 
+Number of documents in results: 1
+Number of comparisons: 4
+TaatOr
+neuroendocrin dotatoc dotatat 
+Results: 9 830 834 933 1127 1171 2285 3887 4451 7373 8253 9194 9195 9875 
+Number of documents in results: 14
+Number of comparisons: 8
+DaatAnd
+neuroendocrin dotatoc dotatat 
+Results: 830 
+Number of documents in results: 1
+Number of comparisons: 3
+DaatOr
+neuroendocrin dotatoc dotatat 
+Results: 9 830 834 933 1127 1171 2285 3887 4451 7373 8253 9194 9195 9875 
+Number of documents in results: 14
+Number of comparisons: 13

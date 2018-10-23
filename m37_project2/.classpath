@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Kamran/Desktop/Sem 1/IR/IRproject2/lucene-7.5.0/core/lucene-core-7.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
